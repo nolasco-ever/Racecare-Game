@@ -1,5 +1,5 @@
 # Racecar-Game
-A simple race car game where you need to get from point A to point B without hitting any obstacles along the way. Obstacles include cones, police cars, pedestrians, and other vehicles. This is the second "full" game I created from scratch. Unlike my first game, I worked with a second person this time around. They worked on the graphics while I focused my attention on programming.<br>
+A simple race car game created in Unity with C# where you need to get from point A to point B without hitting any obstacles along the way. Obstacles include cones, police cars, pedestrians, and other vehicles. This is the second "full" game I created from scratch. Unlike my first game, I worked with a second person this time around. They worked on the graphics while I focused my attention on programming.<br>
 <br>
 As stated previously, this is a fairly simple game. There are 3 controls, move left, move right, and turbo boost and only one stage. The player is a red racecar that is driving down a suburban neighborhood road. The goal is to get to the finish line without hitting any of the obstacles along the way. This is far more ambitious than my previous game "Ball's Journey" in that I had to add other vehicles and pedestrians.<br>
 <br>
